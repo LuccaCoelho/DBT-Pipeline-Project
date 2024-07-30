@@ -4,12 +4,8 @@
 # name or the intended use of these models
 name: 'data_pipeline_project'
 version: '1.0.0'
-<<<<<<< HEAD
-=======
 dbt-cloud:
     project-id: 70403103947924
->>>>>>> d68b30a0bec9e0773a9876ed8967c252f077b591
-
 # This setting configures which "profile" dbt uses for this project.
 profile: 'data_pipeline_project'
 
