@@ -1,4 +1,4 @@
-# ELT Data Pipeline
+# ETL Data Pipeline
 
 ## Introduction
 
