@@ -1,8 +1,8 @@
-# ELT Data Pipeline
+# ETL Data Pipeline
 
 ## Introduction
 
-This project serves as a ETL (Extract, Transform, Load) data pipeline. It utilizes tools such as Snowflake, DBT Core, Apache Airflow, and DBT Cloud.
+This project serves as a ETL (Extract, Transform, Load) data pipeline. It utilizes tools such as Snowflake, DBT Core, and DBT Cloud.
 
 
 ## Pipeline Design:
