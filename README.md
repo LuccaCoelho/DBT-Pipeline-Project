@@ -7,7 +7,7 @@ This project serves as a ETL (Extract, Transform, Load) data pipeline. It utiliz
 
 ## Pipeline Design:
 
-- **Data Source**: We use Snowflake TPC_H Dataset, which is a free dataset stored in Snowflake.
+- **Data Source**: We use Snowflake TPC-H Dataset, which is a free dataset stored in Snowflake.
 - **DBT Cloud**: Responsible for orchestrating the pipeline.
 - **DBT Core**: Responsible of the transformation of data.
 - **Snowflake**: Responsible for data warehousing.
